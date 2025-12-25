@@ -31,7 +31,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on a global da
 * **Predictive Modeling:** The next step is building a regression model to predict salary based on job features.
 * **Interactive Dashboards:** Transitioning these static insights into a Power BI or Tableau dashboard.
 * **Clustering:** Using unsupervised learning to group countries or roles with similar salary profiles.
-
+## [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaimaa-gomaa-phd/)
 ---
 **Author:** Dr. Shaimaa Gomaa  
 *Quantitative Researcher & Data Analyst*
